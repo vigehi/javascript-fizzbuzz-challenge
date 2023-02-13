@@ -1,0 +1,13 @@
+{
+    "name": "autograder",
+    "version": "1.0.0",
+    "description": "Autograder for JavaScript challenge",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "devDependencies": {
+      "jest": "^26.4.2"
+    }
+  }
+  
